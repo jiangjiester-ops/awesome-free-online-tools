@@ -44,6 +44,7 @@ Unlike other online tool websites that upload your sensitive data to their serve
 - 🎨 [颜色值转换](https://www.cqqzx.com/tools/yanse-zhuanhuan.html) - HEX/RGB/HSL 颜色值双向互转，支持实时效果预览。
 - 📱 [二维码生成器](https://www.cqqzx.com/tools/erweima-shengcheng.html) - 纯本地生成文本/网址二维码并支持高清 PNG 下载。
 - 🖼️ [图片压缩](https://www.cqqzx.com/tools/tupian-yasuo.html) - 保持画质、最大化减小体积的本地图片压缩工具。
+- 🗂️ [File Converter](https://fileontap.com/) - Free browser-based image and PDF conversion (HEIC/WebP/PNG/JPG + image↔PDF); processing stays on the device with no upload or account.
 
 ### 📊 Office Assistants (办公辅助)
 - 📑 [PDF 合并](https://www.cqqzx.com/tools/pdf-hebing.html) - 多个 PDF 文件合并为一个，快速安全。
